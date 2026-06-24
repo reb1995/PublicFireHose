@@ -14,7 +14,7 @@ idf.py set-target esp32c6
 idf.py build
 idf.py flash monitor
 ```
-We Flash Instructions
+Web Flash Instructions
 ------------------
 Using a browser that has web serial support, you can flash this firmware here.
 https://reb1995.github.io/ESP-Web-Flasher/
